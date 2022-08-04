@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nalindas9
-- 👀 I’m interested in Robotics, Computer Vision, Perception and Software Engineering 
+- 👀 I’m interested in CV/Perception, AI/ML, Robotics, and Software Engineering.
 - 📫 How to reach me - Email - nalindas9@gmail.com. nalin@htic.iitm.ac.in
 
 <!---
