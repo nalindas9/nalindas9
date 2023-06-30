@@ -9,6 +9,15 @@
 ![Python Version](https://img.shields.io/badge/Python-green)
 ![Python Version](https://img.shields.io/badge/SQL-pink)
 
+##### MERN Stack
+![Python Version](https://img.shields.io/badge/MongoDB-red)
+![Python Version](https://img.shields.io/badge/ExpressJS-orange)
+![Python Version](https://img.shields.io/badge/ReactJS-violet)
+![Python Version](https://img.shields.io/badge/NodeJS-magenta)
+
+[![Coffee](https://img.shields.io/badge/Coffee-☕-blue)](https://shields.io/)
+
+
 <!--
 ![hackerank-ratings](https://github.com/nalindas9/nalindas9/assets/44141068/3e5b5a28-cbf2-4c94-bb46-f85cbf68edb9)
 
