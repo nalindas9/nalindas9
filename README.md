@@ -3,6 +3,9 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nalindas9)
+![Python Version](https://img.shields.io/badge/C++-blue)
+![Python Version](https://img.shields.io/badge/Javascript-yellow)
+![Python Version](https://img.shields.io/badge/Python-green)
 
 
 <!--
