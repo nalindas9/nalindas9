@@ -11,6 +11,12 @@
 ![Python Version](https://img.shields.io/badge/Javascript-yellow)
 ![Python Version](https://img.shields.io/badge/Python-green)
 ![Python Version](https://img.shields.io/badge/SQL-pink)
+![Python Version](https://img.shields.io/badge/ROS-grey)
+
+-------------------------------------------------------------------------------------------------------------------------------------
+##### OS Platforms
+[![Windows](https://img.shields.io/badge/Windows--blue?logo=windows)](https://shields.io/)
+[![Linux](https://img.shields.io/badge/Linux--red?logo=linux)](https://shields.io/)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
