@@ -2,12 +2,16 @@
 - 📫 How to reach me - Email - nalindas9@gmail.com, nalin@htic.iitm.ac.in, nalindas@umd.edu
 - [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nalin-das/)
 
+-------------------------------------------------------------------------------------------------------------------------------------
+
 ![Profile Views](https://komarev.com/ghpvc/?username=nalindas9)
 
 ![Python Version](https://img.shields.io/badge/C++-blue)
 ![Python Version](https://img.shields.io/badge/Javascript-yellow)
 ![Python Version](https://img.shields.io/badge/Python-green)
 ![Python Version](https://img.shields.io/badge/SQL-pink)
+
+-------------------------------------------------------------------------------------------------------------------------------------
 
 ##### MERN Stack
 ![Python Version](https://img.shields.io/badge/MongoDB-red)
