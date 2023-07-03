@@ -2,6 +2,8 @@
 - 📫 How to reach me - Email - nalindas9@gmail.com, nalin@htic.iitm.ac.in, nalindas@umd.edu
 - [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nalin-das/)
 
+Feel free to check out my GitHub repositories 👉 [here](https://github.com/nalindas9?tab=repositories)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=nalindas9)
 
 -------------------------------------------------------------------------------------------------------------------------------------
