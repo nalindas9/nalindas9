@@ -24,7 +24,11 @@ Feel free to check out my GitHub repositories 👉 [here](https://github.com/nal
 [![Linux](https://img.shields.io/badge/Linux--red?logo=linux)](https://shields.io/)
 
 -------------------------------------------------------------------------------------------------------------------------------------
+#### Spreadsheets
+[![Excel](https://img.shields.io/badge/Excel-32C03C?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-in/microsoft-365/excel)
+[![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://www.google.com/sheets/about/)
 
+-------------------------------------------------------------------------------------------------------------------------------------
 ##### MERN Stack
 ![Python Version](https://img.shields.io/badge/MongoDB-red)
 ![Python Version](https://img.shields.io/badge/ExpressJS-orange)
