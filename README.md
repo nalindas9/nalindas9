@@ -16,7 +16,7 @@ Feel free to check out my GitHub repositories 👉 [here](https://github.com/nal
 ![Python Version](https://img.shields.io/badge/ROS-grey)
 
 ##### ML frameworks 
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 ##### OS Platforms
