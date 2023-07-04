@@ -14,6 +14,10 @@ Feel free to check out my GitHub repositories 👉 [here](https://github.com/nal
 ![Python Version](https://img.shields.io/badge/Python-green)
 ![Python Version](https://img.shields.io/badge/SQL-pink)
 ![Python Version](https://img.shields.io/badge/ROS-grey)
+[![AWS EC2](https://img.shields.io/badge/AWS-EC2-orange)]()
+[![AWS S3](https://img.shields.io/badge/AWS-S3-blue)]()
+[![Apache Kafka](https://img.shields.io/badge/Apache-Kafka-red)]()
+[![Flask](https://img.shields.io/badge/Flask-Latest-brightgreen)]()
 
 ##### ML frameworks 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=orange&color=forestgreen)
