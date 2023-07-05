@@ -12,6 +12,7 @@ Feel free to check out my GitHub repositories 👉 [here](https://github.com/nal
 ![Python Version](https://img.shields.io/badge/C++-blue)
 ![Python Version](https://img.shields.io/badge/Python-green)
 ![Python Version](https://img.shields.io/badge/Javascript-yellow)
+![Python Version](https://img.shields.io/badge/Java-white)
 ![Python Version](https://img.shields.io/badge/SQL-pink)
 ![Python Version](https://img.shields.io/badge/ROS-grey)
 [![AWS](https://img.shields.io/badge/AWS-orange)]()
