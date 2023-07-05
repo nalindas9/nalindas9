@@ -7,7 +7,7 @@ Feel free to check out my GitHub repositories 👉 [here](https://github.com/nal
 ![Profile Views](https://komarev.com/ghpvc/?username=nalindas9)
 
 -------------------------------------------------------------------------------------------------------------------------------------
-##### Tech Stack
+#### Tech Stack
 
 ![Python Version](https://img.shields.io/badge/C++-blue)
 ![Python Version](https://img.shields.io/badge/Python-green)
@@ -17,11 +17,11 @@ Feel free to check out my GitHub repositories 👉 [here](https://github.com/nal
 ![Python Version](https://img.shields.io/badge/ROS-grey)
 [![AWS](https://img.shields.io/badge/AWS-orange)]()
 
-##### ML frameworks 
+#### ML frameworks 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=orange&color=forestgreen)
 
 -------------------------------------------------------------------------------------------------------------------------------------
-##### OS Platforms
+#### OS Platforms
 [![Windows](https://img.shields.io/badge/Windows--blue?logo=windows)](https://shields.io/)
 [![Linux](https://img.shields.io/badge/Linux--red?logo=linux)](https://shields.io/)
 
@@ -31,7 +31,7 @@ Feel free to check out my GitHub repositories 👉 [here](https://github.com/nal
 [![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://www.google.com/sheets/about/)
 
 -------------------------------------------------------------------------------------------------------------------------------------
-##### MERN Stack
+#### MERN Stack
 ![Python Version](https://img.shields.io/badge/MongoDB-red)
 ![Python Version](https://img.shields.io/badge/ExpressJS-orange)
 ![Python Version](https://img.shields.io/badge/ReactJS-violet)
