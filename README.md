@@ -14,14 +14,15 @@ What I am upto these days -
 #### Thank you for visiting
 -------------------------------------------------------------------------------------------------------------------------------------
 #### Tech Stack
-
 ![Python Version](https://img.shields.io/badge/C++-blue)
 ![Python Version](https://img.shields.io/badge/Python-green)
 ![Python Version](https://img.shields.io/badge/Javascript-yellow)
 ![Python Version](https://img.shields.io/badge/Java-white)
 ![Python Version](https://img.shields.io/badge/SQL-pink)
 ![Python Version](https://img.shields.io/badge/ROS-grey)
+
 [![AWS](https://img.shields.io/badge/AWS-orange)]()
+
 
 #### ML frameworks 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=orange&color=forestgreen)
