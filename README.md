@@ -11,7 +11,7 @@ What I am upto these days -
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nalindas9)
 
-#### Thank you for visiting
+#### Thank you for visiting :)
 -------------------------------------------------------------------------------------------------------------------------------------
 #### Tech Stack
 ![Python Version](https://img.shields.io/badge/C++-blue)
