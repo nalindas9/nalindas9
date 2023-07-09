@@ -7,8 +7,8 @@ Please feel free to check out my GitHub repositories and Source Code 👉 [here]
 What I am upto these days - 
 1. Click here --> [DS-algo-opensource-problems](https://github.com/nalindas9/ds-algo-opensource-problems/tree/main)
 2. Click here --> [ICR--Detect conditions with measurements of anonymous characteristics](https://github.com/nalindas9/ICR---Identifying-Age-Related-Conditions)
-3. Click here --> [Celery-distributed-asynchronous](https://github.com/nalindas9/celery-distributed-asynchronous)
-
+3. Click here --> [sql-mysql](https://github.com/nalindas9/sql-mysql)
+   
 ![Profile Views](https://komarev.com/ghpvc/?username=nalindas9)
 
 -------------------------------------------------------------------------------------------------------------------------------------
