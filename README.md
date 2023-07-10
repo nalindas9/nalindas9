@@ -13,15 +13,15 @@ What I am upto these days -
 
 -------------------------------------------------------------------------------------------------------------------------------------
 #### Tech Stack
-![Python Version](https://img.shields.io/badge/C++-blue)
-![Python Version](https://img.shields.io/badge/Python-green)
-![Python Version](https://img.shields.io/badge/Javascript-yellow)
-![Python Version](https://img.shields.io/badge/Java-white)
-![Python Version](https://img.shields.io/badge/SQL-pink)
-![Python Version](https://img.shields.io/badge/ROS-grey)
+![C++](https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-blue.svg?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-blue.svg?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/Java-blue.svg?style=flat-square&logo=java)
+![Go](https://img.shields.io/badge/Golang-blue.svg?style=flat-square&logo=go)
+![SQL](https://img.shields.io/badge/SQL-blue.svg?style=flat-square&logo=microsoft-sql-server)
+![ROS](https://img.shields.io/badge/ROS-blue.svg?style=flat-square&logo=ros)
 
-[![AWS](https://img.shields.io/badge/AWS-orange)]()
-
+![AWS](https://img.shields.io/badge/AWS-blue.svg?style=flat-square&logo=amazon-aws)
 
 #### ML frameworks 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=orange&color=forestgreen)
