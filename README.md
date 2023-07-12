@@ -5,10 +5,10 @@
 Feel free to check out my GitHub repositories and Source Code 👉 [here](https://github.com/nalindas9?tab=repositories)
 
 Some recent updates - 
-1. Click here --> [DS-algo-opensource-problems](https://github.com/nalindas9/ds-algo-opensource-problems/tree/main)
-2. Click here --> [ICR--Detect conditions with measurements of anonymous characteristics](https://github.com/nalindas9/ICR---Identifying-Age-Related-Conditions)
-3. Click here --> [[Research Paper] Scene-Understanding-for-Autonomous-Driving](https://github.com/nalindas9/Scene-Understanding-for-Autonomous-Driving.git)
-4. Click here --> [sql-mysql](https://github.com/nalindas9/sql-mysql)
+#### 1. Click here --> [DS-algo-opensource-problems](https://github.com/nalindas9/ds-algo-opensource-problems/tree/main)
+#### 2. Click here --> [ICR--Detect conditions with measurements of anonymous characteristics](https://github.com/nalindas9/ICR---Identifying-Age-Related-Conditions)
+#### 3. Click here --> [[Research Paper] Scene-Understanding-for-Autonomous-Driving](https://github.com/nalindas9/Scene-Understanding-for-Autonomous-Driving.git)
+#### 4. Click here --> [sql-mysql](https://github.com/nalindas9/sql-mysql)
    
 ![Profile Views](https://komarev.com/ghpvc/?username=nalindas9)
 
