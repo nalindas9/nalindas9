@@ -15,8 +15,8 @@ Some recent updates -
 -------------------------------------------------------------------------------------------------------------------------------------
 #### Tech Stack
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-blue.svg?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-blue.svg?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/Python-blue.svg?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-blue.svg?style=flat-square&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-blue.svg?style=flat-square&logo=java)
 ![Go](https://img.shields.io/badge/Golang-blue.svg?style=flat-square&logo=go)
 ![SQL](https://img.shields.io/badge/SQL-blue.svg?style=flat-square&logo=microsoft-sql-server)
