@@ -42,7 +42,7 @@ Some recent updates -
 -------------------------------------------------------------------------------------------------------------------------------------
 #### MERN Stack
 
-![mongodb](https://img.shields.io/badge/mongodb-lightbrown.svg?style=flat&logo=mongodb)
+![mongodb](https://img.shields.io/badge/mongodb-lightbrown.svg?style=flat&logo=mongodb&color=grey)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-yellow.svg?style=flat&logo=express)
 ![ReactJS](https://img.shields.io/badge/ReactJS-pink.svg?style=flat&logo=react)
 ![NodeJS](https://img.shields.io/badge/NodeJS-violet.svg?style=flat&logo=node.js)
