@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nalindas9
 - 📫 How to reach me - Email - nalindas9@gmail.com, nalin@htic.iitm.ac.in, nalindas@umd.edu
 - [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nalin-das/)
-- ![Status Updating](https://img.shields.io/badge/Status-Updating-green?)
 
 Feel free to check out my GitHub repositories and Source Code 👉 [here](https://github.com/nalindas9?tab=repositories)
 
