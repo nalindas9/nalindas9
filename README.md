@@ -24,6 +24,10 @@ Some recent updates -
 
 ![AWS](https://img.shields.io/badge/AWS-blue.svg?style=flat-square&logo=amazon-aws)
 
+#### Project Tracking
+![Jira](https://img.shields.io/badge/Jira-blue.svg?style=flat-square&logo=jira)
+![Gitlab](https://img.shields.io/badge/Gitlab-blue.svg?style=flat-square&logo=gitlab)
+
 #### ML frameworks 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=orange&color=grey)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=orange&color=grey)]()
