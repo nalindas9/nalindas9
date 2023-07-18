@@ -37,12 +37,10 @@ Some recent updates -
 [![Windows](https://img.shields.io/badge/Windows--blue?logo=windows)](https://shields.io/)
 [![Linux](https://img.shields.io/badge/Linux--red?logo=linux)](https://shields.io/)
 
--------------------------------------------------------------------------------------------------------------------------------------
 #### Spreadsheets
 ![Excel](https://img.shields.io/badge/Excel-32C03C?style=for-the-badge&logo=microsoft-excel&logoColor=forestgreen&color=grey)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=green&color=grey)
 
--------------------------------------------------------------------------------------------------------------------------------------
 #### MERN Stack
 
 ![mongodb](https://img.shields.io/badge/mongodb-lightbrown.svg?style=flat&logo=mongodb&color=grey)
