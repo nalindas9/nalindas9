@@ -25,12 +25,12 @@ Some recent updates -
 
 #### Project Tracking
 ![Jira](https://img.shields.io/badge/Jira-grey.svg?style=flat-square&logo=jira)
-![Gitlab](https://img.shields.io/badge/Gitlab-grey.svg?style=flat-square&logo=gitlab)
+![Gitlab](https://img.shields.io/badge/Gitlab-grey.svg?style=flat-square&logo=gitlab&logoColor=white)
 
 #### ML frameworks 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=orange&color=grey)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=orange&color=grey)]()
-[![Keras](https://img.shields.io/badge/Keras-%446600.svg?style=for-the-badge&logo=Keras&logoColor=red&color=grey)]()
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&color=grey)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&color=grey)]()
+[![Keras](https://img.shields.io/badge/Keras-%446600.svg?style=for-the-badge&logo=Keras&logoColor=white&color=grey)]()
 
 -------------------------------------------------------------------------------------------------------------------------------------
 #### OS Platforms
