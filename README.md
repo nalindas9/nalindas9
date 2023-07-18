@@ -14,19 +14,18 @@ Some recent updates -
 
 -------------------------------------------------------------------------------------------------------------------------------------
 #### Tech Stack
-![Python](https://img.shields.io/badge/Python-blue.svg?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-blue.svg?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-blue.svg?style=flat-square&logo=javascript&logoColor=white)
-![Go](https://img.shields.io/badge/Golang-blue.svg?style=flat-square&logo=go)
-![C++](https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/SQL-blue.svg?style=flat-square&logo=microsoft-sql-server)
-![ROS](https://img.shields.io/badge/ROS-blue.svg?style=flat-square&logo=ros)
-
-![AWS](https://img.shields.io/badge/AWS-blue.svg?style=flat-square&logo=amazon-aws)
+![Python](https://img.shields.io/badge/Python-grey.svg?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-grey.svg?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-grey.svg?style=flat-square&logo=javascript&logoColor=yellow)
+![Go](https://img.shields.io/badge/Golang-grey.svg?style=flat-square&logo=go)
+![C++](https://img.shields.io/badge/C++-grey.svg?style=flat-square&logo=c%2B%2B)
+![SQL](https://img.shields.io/badge/SQL-grey.svg?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-grey.svg?style=flat-square&logo=ros)
+![AWS](https://img.shields.io/badge/AWS-grey.svg?style=flat-square&logo=amazon-aws&logocolor=black)
 
 #### Project Tracking
-![Jira](https://img.shields.io/badge/Jira-blue.svg?style=flat-square&logo=jira)
-![Gitlab](https://img.shields.io/badge/Gitlab-blue.svg?style=flat-square&logo=gitlab)
+![Jira](https://img.shields.io/badge/Jira-grey.svg?style=flat-square&logo=jira)
+![Gitlab](https://img.shields.io/badge/Gitlab-grey.svg?style=flat-square&logo=gitlab)
 
 #### ML frameworks 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=orange&color=grey)
