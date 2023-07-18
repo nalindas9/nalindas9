@@ -16,8 +16,8 @@ Some recent updates -
 #### Tech Stack
 ![Python](https://img.shields.io/badge/Python-grey.svg?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-grey.svg?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-grey.svg?style=flat-square&logo=javascript&logoColor=yellow)
-![Go](https://img.shields.io/badge/Golang-grey.svg?style=flat-square&logo=go)
+![JavaScript](https://img.shields.io/badge/JavaScript-grey.svg?style=flat-square&logo=javascript&logoColor=white)
+![Go](https://img.shields.io/badge/Golang-grey.svg?style=flat-square&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-grey.svg?style=flat-square&logo=c%2B%2B)
 ![SQL](https://img.shields.io/badge/SQL-grey.svg?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-grey.svg?style=flat-square&logo=ros)
