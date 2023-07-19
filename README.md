@@ -37,19 +37,19 @@ Some recent updates -
 
 -------------------------------------------------------------------------------------------------------------------------------------
 #### OS Platforms
-[![Windows](https://img.shields.io/badge/Windows--blue?logo=windows)](https://shields.io/)
-[![Linux](https://img.shields.io/badge/Linux--red?logo=linux)](https://shields.io/)
+![Windows](https://img.shields.io/badge/Windows--white?logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux--white?logo=linux&logoColor=white)
 
 #### Spreadsheets
-![Excel](https://img.shields.io/badge/Excel-32C03C?style=for-the-badge&logo=microsoft-excel&logoColor=forestgreen&color=grey)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=green&color=grey)
+![Excel](https://img.shields.io/badge/Excel-32C03C?style=for-the-badge&logo=microsoft-excel&logoColor=white&color=grey)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white&color=grey)
 
 #### MERN Stack
 
-![mongodb](https://img.shields.io/badge/mongodb-lightbrown.svg?style=flat&logo=mongodb&color=grey)
+![mongodb](https://img.shields.io/badge/mongodb-lightbrown.svg?style=flat&logo=mongodb&color=grey&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-yellow.svg?style=flat&logo=express&color=grey)
-![ReactJS](https://img.shields.io/badge/ReactJS-pink.svg?style=flat&logo=react&color=grey)
-![NodeJS](https://img.shields.io/badge/NodeJS-violet.svg?style=flat&logo=node.js&color=grey)
+![ReactJS](https://img.shields.io/badge/ReactJS-pink.svg?style=flat&logo=react&color=grey&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-violet.svg?style=flat&logo=node.js&color=grey&logoColor=white)
 
 <!--
 ![hackerank-ratings](https://github.com/nalindas9/nalindas9/assets/44141068/3e5b5a28-cbf2-4c94-bb46-f85cbf68edb9)
