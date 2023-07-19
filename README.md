@@ -24,8 +24,8 @@ Some recent updates -
 ![AWS](https://img.shields.io/badge/AWS-grey.svg?style=flat-square&logo=amazon-aws&logocolor=black)
 
 #### Project Tracking
-![Jira](https://img.shields.io/badge/Jira-grey.svg?style=flat-square&logo=jira)
 ![Gitlab](https://img.shields.io/badge/Gitlab-grey.svg?style=flat-square&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-grey.svg?style=flat-square&logo=jira)
 
 #### Collaboration Platforms
 ![Slack](https://img.shields.io/badge/Slack-grey.svg?style=flat-square&logo=slack)
