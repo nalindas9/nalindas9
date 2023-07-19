@@ -27,6 +27,9 @@ Some recent updates -
 ![Jira](https://img.shields.io/badge/Jira-grey.svg?style=flat-square&logo=jira)
 ![Gitlab](https://img.shields.io/badge/Gitlab-grey.svg?style=flat-square&logo=gitlab&logoColor=white)
 
+#### Collaboration Platforms
+![Slack](https://img.shields.io/badge/Slack-grey.svg?style=flat-square&logo=slack)
+
 #### ML frameworks 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&color=grey)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&color=grey)]()
