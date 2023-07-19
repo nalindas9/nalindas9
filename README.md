@@ -21,6 +21,7 @@ Some recent updates -
 ![C++](https://img.shields.io/badge/C++-grey.svg?style=flat-square&logo=c%2B%2B)
 ![SQL](https://img.shields.io/badge/SQL-grey.svg?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-grey.svg?style=flat-square&logo=ros)
+
 ![AWS](https://img.shields.io/badge/AWS-grey.svg?style=flat-square&logo=amazon-aws&logocolor=black)
 
 #### Project Tracking
