@@ -32,9 +32,9 @@ Some recent updates -
 ![Slack](https://img.shields.io/badge/Slack-grey.svg?style=flat-square&logo=slack)
 
 #### ML frameworks 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&color=grey)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&color=grey)]()
-[![Keras](https://img.shields.io/badge/Keras-%446600.svg?style=for-the-badge&logo=Keras&logoColor=white&color=grey)]()
+![Pytorch](https://img.shields.io/badge/Pytorch-grey.svg?style=flat-square&logo=pytorch&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-grey.svg?style=flat-square&logo=Tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-grey.svg?style=flat-square&logo=Keras&logoColor=white)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 #### OS Platforms
@@ -42,8 +42,8 @@ Some recent updates -
 ![Linux](https://img.shields.io/badge/Linux--white?logo=linux&logoColor=white)
 
 #### Spreadsheets
-![Excel](https://img.shields.io/badge/Excel-32C03C?style=for-the-badge&logo=microsoft-excel&logoColor=white&color=grey)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white&color=grey)
+![Excel](https://img.shields.io/badge/Excel--white?logo=Excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/GoogleSheets--white?logo=GoogleSheets&logoColor=white)
 
 #### MERN Stack
 
